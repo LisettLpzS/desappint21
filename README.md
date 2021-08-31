@@ -7,5 +7,3 @@ Lisett Lopez Solis
 2. Area circulo
 3. Area triangulo
 4. Paga Trabajador
-
-Eso sera todo por esta clase
