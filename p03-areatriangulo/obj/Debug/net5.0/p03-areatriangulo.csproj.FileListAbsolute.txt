@@ -1,0 +1,16 @@
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.exe
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.deps.json
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.json
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.runtimeconfig.dev.json
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.dll
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\desappint21\p03-areatriangulo\bin\Debug\net5.0\p03-areatriangulo.pdb
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.AssemblyReference.cache
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfoInputs.cache
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.AssemblyInfo.cs
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.csproj.CoreCompileInputs.cache
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.dll
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\ref\p03-areatriangulo.dll
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.pdb
+C:\desappint21\p03-areatriangulo\obj\Debug\net5.0\p03-areatriangulo.genruntimeconfig.cache
