@@ -1,0 +1,16 @@
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.AssemblyReference.cache
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfoInputs.cache
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfo.cs
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.CoreCompileInputs.cache
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.exe
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.deps.json
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.json
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.dev.json
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.dll
+C:\desappint21\p06-pizza\bin\Debug\net5.0\ref\p06-pizza.dll
+C:\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.pdb
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.dll
+C:\desappint21\p06-pizza\obj\Debug\net5.0\ref\p06-pizza.dll
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.pdb
+C:\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.genruntimeconfig.cache

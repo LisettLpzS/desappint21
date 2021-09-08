@@ -1,0 +1,16 @@
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.exe
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.deps.json
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.runtimeconfig.json
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.runtimeconfig.dev.json
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.dll
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\ref\p05-ciclos.dll
+C:\desappint21\p05-ciclos\bin\Debug\net5.0\p05-ciclos.pdb
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.csproj.AssemblyReference.cache
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.AssemblyInfoInputs.cache
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.AssemblyInfo.cs
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.csproj.CoreCompileInputs.cache
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.dll
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\ref\p05-ciclos.dll
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.pdb
+C:\desappint21\p05-ciclos\obj\Debug\net5.0\p05-ciclos.genruntimeconfig.cache
