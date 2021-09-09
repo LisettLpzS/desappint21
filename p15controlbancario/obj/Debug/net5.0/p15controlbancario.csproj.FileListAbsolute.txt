@@ -1,0 +1,16 @@
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.csproj.AssemblyReference.cache
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.AssemblyInfoInputs.cache
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.AssemblyInfo.cs
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.csproj.CoreCompileInputs.cache
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.exe
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.deps.json
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.runtimeconfig.json
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.runtimeconfig.dev.json
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.dll
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\ref\p15controlbancario.dll
+C:\desappint21\p15controlbancario\bin\Debug\net5.0\p15controlbancario.pdb
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.dll
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\ref\p15controlbancario.dll
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.pdb
+C:\desappint21\p15controlbancario\obj\Debug\net5.0\p15controlbancario.genruntimeconfig.cache

@@ -43,15 +43,16 @@ namespace p15controlbancario
             Console.WriteLine($"El saldo de la cuenta 1 es {cta2.saldo}");
             Console.WriteLine($"El saldo de la cuenta 1 es {cta3.saldo}");
 
-            Console.WriteLine($"Cliente 1 {cte1.nombre}, {cte1.apeido} saldo en cuenta {cte1.cuenta.saldo}");
-            Console.WriteLine($"Cliente 2 {cte2.nombre}, {cte2.apeido} saldo en cuenta {cte2.cuenta.saldo}");
-            Console.WriteLine($"Cliente 3 {cte3.nombre}, {cte3.apeido} saldo en cuenta {cte3.cuenta.saldo}");
+            Console.WriteLine($"Cliente 1 {cte1.nombre},{cte1.apeido} saldo en cuenta {cte1.cuenta.saldo}");
+            Console.WriteLine($"Cliente 2 {cte2.nombre},{cte2.apeido} saldo en cuenta {cte2.cuenta.saldo}");
+            Console.WriteLine($"Cliente 2 {cte3.nombre},{cte3.apeido} saldo en cuenta {cte2.cuenta.saldo}");
 
             //Reporte de clientes del banco
-            foreach (Cliente cte in mibanco){
-                Console.WriteLine($"Cliente 2 {cte.nombre},{cte.apeido} saldo en cuenta{cte.cuenta.saldo}");
+            Console.WriteLine($"\nReporte de clientes del banco {mibanco.nombre}, {mibanco.direccion}");
+            foreach (Cliente cte in mibanco.clientes){
+                Console.WriteLine($"Cliente 2 {cte.nombre},{cte.apeido} saldo en cuenta {cte.cuenta.saldo}");
             }
-            Console.WriteLine($"Total de clientes")
+            Console.WriteLine($"Total de clientes {mibanco.clientes.Count}");
                     
         }
     }
