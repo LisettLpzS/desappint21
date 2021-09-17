@@ -1,0 +1,16 @@
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.csproj.AssemblyReference.cache
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.AssemblyInfoInputs.cache
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.AssemblyInfo.cs
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.csproj.CoreCompileInputs.cache
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.exe
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.deps.json
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.json
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.runtimeconfig.dev.json
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.dll
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\ref\p17-repasopoo.dll
+C:\desappint21\p17-repasopoo\bin\Debug\net5.0\p17-repasopoo.pdb
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.dll
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\ref\p17-repasopoo.dll
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.pdb
+C:\desappint21\p17-repasopoo\obj\Debug\net5.0\p17-repasopoo.genruntimeconfig.cache
