@@ -1,0 +1,16 @@
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.exe
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.deps.json
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.json
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.dev.json
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.dll
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\ref\p14-estadisticas.dll
+C:\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.pdb
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.AssemblyReference.cache
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfoInputs.cache
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfo.cs
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.CoreCompileInputs.cache
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.dll
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\ref\p14-estadisticas.dll
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.pdb
+C:\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.genruntimeconfig.cache

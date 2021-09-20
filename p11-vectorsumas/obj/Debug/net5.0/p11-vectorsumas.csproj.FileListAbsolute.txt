@@ -1,0 +1,16 @@
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.AssemblyReference.cache
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfoInputs.cache
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfo.cs
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.CoreCompileInputs.cache
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.exe
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.deps.json
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.json
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.dev.json
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.dll
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\ref\p11-vectorsumas.dll
+C:\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.pdb
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.dll
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\ref\p11-vectorsumas.dll
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.pdb
+C:\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.genruntimeconfig.cache

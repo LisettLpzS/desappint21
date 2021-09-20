@@ -1,0 +1,16 @@
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.AssemblyReference.cache
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfoInputs.cache
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfo.cs
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.CoreCompileInputs.cache
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.exe
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.deps.json
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.json
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.dev.json
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.dll
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\ref\p10-vectorcubo.dll
+C:\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.pdb
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.dll
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\ref\p10-vectorcubo.dll
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.pdb
+C:\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.genruntimeconfig.cache
