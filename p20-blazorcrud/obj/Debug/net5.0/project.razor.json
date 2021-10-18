@@ -144,39 +144,6 @@
         }
       },
       {
-        "HashCode": -841350012,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
-        }
-      },
-      {
-        "HashCode": -1748969796,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 87031029,
         "Kind": "Components.Component",
         "Name": "p20_blazorcrud.Pages.EditEmployees",
@@ -226,6 +193,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p20_blazorcrud.Pages.EditEmployees",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -841350012,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Employees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
+        }
+      },
+      {
+        "HashCode": -1748969796,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Employees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
