@@ -1,0 +1,16 @@
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.csproj.AssemblyReference.cache
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.GeneratedMSBuildEditorConfig.editorconfig
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.AssemblyInfoInputs.cache
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.AssemblyInfo.cs
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.csproj.CoreCompileInputs.cache
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.exe
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.deps.json
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.runtimeconfig.json
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.runtimeconfig.dev.json
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.dll
+C:\desappint21\parcial01\bin\Debug\net5.0\ref\parcial01.dll
+C:\desappint21\parcial01\bin\Debug\net5.0\parcial01.pdb
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.dll
+C:\desappint21\parcial01\obj\Debug\net5.0\ref\parcial01.dll
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.pdb
+C:\desappint21\parcial01\obj\Debug\net5.0\parcial01.genruntimeconfig.cache
