@@ -7,13 +7,22 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+using Microsoft.Extensions.DependencyInjection;
+using p21_universidadv1.Data;
+
 namespace p21_universidadv1
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+            var host = CreateHostBuilder(args).Build();
+            using(var scope = host.Services.CreateScope()) {
+                var services = scope.ServiceProvider;
+                var contexto = services.GetRequiredService<UniContexto>();
+                InicializaBD.Inicializar(contexto);
+            }
+            host.Run();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

@@ -10,6 +10,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using p21_universidadv1.Data;
 
+using Microsoft.EntityFrameworkCore;
+using p21_universidadv1.Modelo;
+
 namespace p21_universidadv1
 {
     public class Startup
@@ -28,7 +31,11 @@ namespace p21_universidadv1
             services.AddRazorPages();
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
+            services.AddDbContext<UniContexto>(opciones =>
+                opciones.UseSqlite(Configuration.GetConnectionString("ConexionBD")));
+            
         }
+        
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
