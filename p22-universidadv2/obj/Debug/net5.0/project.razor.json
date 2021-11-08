@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\desappint21\\p20-blazorcrud\\p20-blazorcrud.csproj",
+  "FilePath": "c:\\desappint21\\p21-universidadv1\\p21-universidadv1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -12,43 +12,10 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -111901170,
+        "HashCode": 890004071,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AddEmployees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees"
-        }
-      },
-      {
-        "HashCode": 764222583,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.AddEmployees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 217948331,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Counter",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.Counter",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -57,170 +24,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Counter"
+          "Common.TypeName": "p21_universidadv1.Pages.Counter"
         }
       },
       {
-        "HashCode": -1955097725,
+        "HashCode": 2144495194,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Counter",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.Counter",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Pages.Counter"
+            "TagName": "p21_universidadv1.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Counter",
+          "Common.TypeName": "p21_universidadv1.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1674225246,
+        "HashCode": 1196453323,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.DeleteEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteEmployees"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.DeleteEmployees"
-        }
-      },
-      {
-        "HashCode": -1296035835,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.DeleteEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.DeleteEmployees"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.DeleteEmployees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 87031029,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.EditEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EditEmployees"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.EditEmployees"
-        }
-      },
-      {
-        "HashCode": -1660785665,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.EditEmployees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.EditEmployees"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.EditEmployees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -841350012,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
-        }
-      },
-      {
-        "HashCode": -1748969796,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 652429117,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.FetchData",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.FetchData",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -229,31 +57,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.FetchData"
+          "Common.TypeName": "p21_universidadv1.Pages.FetchData"
         }
       },
       {
-        "HashCode": -586856046,
+        "HashCode": -938263830,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.FetchData",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.FetchData",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Pages.FetchData"
+            "TagName": "p21_universidadv1.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.FetchData",
+          "Common.TypeName": "p21_universidadv1.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -975664879,
+        "HashCode": -1114314457,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Index",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.Index",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -262,31 +90,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Index"
+          "Common.TypeName": "p21_universidadv1.Pages.Index"
         }
       },
       {
-        "HashCode": 80629662,
+        "HashCode": -1256642085,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Index",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Pages.Index",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Pages.Index"
+            "TagName": "p21_universidadv1.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Index",
+          "Common.TypeName": "p21_universidadv1.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": 1731189896,
+        "HashCode": 186119531,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.App",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -295,31 +123,31 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App"
+          "Common.TypeName": "p21_universidadv1.App"
         }
       },
       {
-        "HashCode": -1195578835,
+        "HashCode": 1383171109,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.App",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.App"
+            "TagName": "p21_universidadv1.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App",
+          "Common.TypeName": "p21_universidadv1.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -2100884852,
+        "HashCode": 840700637,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.SurveyPrompt",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.SurveyPrompt",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -338,18 +166,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.SurveyPrompt"
+          "Common.TypeName": "p21_universidadv1.Shared.SurveyPrompt"
         }
       },
       {
-        "HashCode": 1147800287,
+        "HashCode": -528077452,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.SurveyPrompt",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.SurveyPrompt",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Shared.SurveyPrompt"
+            "TagName": "p21_universidadv1.Shared.SurveyPrompt"
           }
         ],
         "BoundAttributes": [
@@ -364,15 +192,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.SurveyPrompt",
+          "Common.TypeName": "p21_universidadv1.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1375565275,
+        "HashCode": 1531844831,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.MainLayout",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.MainLayout",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -393,18 +221,18 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.MainLayout"
+          "Common.TypeName": "p21_universidadv1.Shared.MainLayout"
         }
       },
       {
-        "HashCode": 1310064634,
+        "HashCode": -2016460098,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.MainLayout",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.MainLayout",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Shared.MainLayout"
+            "TagName": "p21_universidadv1.Shared.MainLayout"
           }
         ],
         "BoundAttributes": [
@@ -421,15 +249,15 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.MainLayout",
+          "Common.TypeName": "p21_universidadv1.Shared.MainLayout",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1551198511,
+        "HashCode": -1284151026,
         "Kind": "Components.ChildContent",
-        "Name": "p20_blazorcrud.Shared.MainLayout.Body",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.MainLayout.Body",
+        "AssemblyName": "p21-universidadv1",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
@@ -440,35 +268,35 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "p20_blazorcrud.Shared.MainLayout.Body",
+          "Common.TypeName": "p21_universidadv1.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent"
         }
       },
       {
-        "HashCode": -674302907,
+        "HashCode": 1572747550,
         "Kind": "Components.ChildContent",
-        "Name": "p20_blazorcrud.Shared.MainLayout.Body",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.MainLayout.Body",
+        "AssemblyName": "p21-universidadv1",
         "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
             "TagName": "Body",
-            "ParentTag": "p20_blazorcrud.Shared.MainLayout"
+            "ParentTag": "p21_universidadv1.Shared.MainLayout"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.None",
-          "Common.TypeName": "p20_blazorcrud.Shared.MainLayout.Body",
+          "Common.TypeName": "p21_universidadv1.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -655038571,
+        "HashCode": -1285642619,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.NavMenu",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.NavMenu",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
@@ -477,23 +305,23 @@
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu"
+          "Common.TypeName": "p21_universidadv1.Shared.NavMenu"
         }
       },
       {
-        "HashCode": 878611531,
+        "HashCode": -1853853745,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.NavMenu",
-        "AssemblyName": "p20-blazorcrud",
+        "Name": "p21_universidadv1.Shared.NavMenu",
+        "AssemblyName": "p21-universidadv1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Shared.NavMenu"
+            "TagName": "p21_universidadv1.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu",
+          "Common.TypeName": "p21_universidadv1.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16102,76 +15930,56 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "p20_blazorcrud",
+  "RootNamespace": "p21_universidadv1",
   "Documents": [
     {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\Employees.razor",
-      "TargetPath": "Pages\\Employees.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\DeleteEmployees.razor",
-      "TargetPath": "Pages\\DeleteEmployees.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\EditEmployees.razor",
-      "TargetPath": "Pages\\EditEmployees.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Shared\\NavMenu.razor",
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Shared\\NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\desappint21\\p20-blazorcrud\\Pages\\AddEmployees.razor",
-      "TargetPath": "Pages\\AddEmployees.razor",
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Pages\\_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\desappint21\\p21-universidadv1\\App.razor",
+      "TargetPath": "App.razor",
       "FileKind": "component"
     }
   ],
