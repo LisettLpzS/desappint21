@@ -13,84 +13,84 @@ namespace p21_universidadv1.Pages.Departamento
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 1 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 2 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 3 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 4 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 5 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 6 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 7 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 8 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 9 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using p21_universidadv1;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/castr/Downloads/programas/p26-universidadv6/_Imports.razor"
+#line 10 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using p21_universidadv1.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/castr/Downloads/programas/p26-universidadv6/Pages/Departamento/Departamentos.razor"
+#line 2 "c:\desappint21\p26-universidadv6\Pages\Departamento\Departamentos.razor"
 using p21_universidadv1.Modelo;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/castr/Downloads/programas/p26-universidadv6/Pages/Departamento/Departamentos.razor"
+#line 3 "c:\desappint21\p26-universidadv6\Pages\Departamento\Departamentos.razor"
 using p21_universidadv1.Servicio;
 
 #line default
@@ -105,7 +105,7 @@ using p21_universidadv1.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 51 "/Users/castr/Downloads/programas/p26-universidadv6/Pages/Departamento/Departamentos.razor"
+#line 51 "c:\desappint21\p26-universidadv6\Pages\Departamento\Departamentos.razor"
        
     List<Departamento> obj;
  

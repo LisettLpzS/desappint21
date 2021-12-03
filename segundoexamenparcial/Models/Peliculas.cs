@@ -13,7 +13,7 @@ namespace segundoexamenparcial.Modelo
         public int CertificadoId {get;set}
         public string Informacion {get;set}
 
-        public PeliculasDirigidasPorProductores PeliculasDirigidasPorProductores {get; set;}
+        public ICollection<PeliculasDirigidasPorProductores> PeliculasDirigidasPorProductores {get; set;}
     }
 
 }

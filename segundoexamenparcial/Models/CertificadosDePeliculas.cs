@@ -7,6 +7,6 @@ namespace segundoexamenparcial.Modelo
         public int CertificadoId {get;set}
         public string Certificado {get;set}
 
-        public Peliculas Peliculas {get; set;}
+        public ICollection <Peliculas> Peliculas {get; set;}
     }
 }

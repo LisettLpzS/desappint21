@@ -7,8 +7,7 @@ namespace segundoexamenparcial.Modelo
         public int ProductoresId {get;set}
         public int TituloId {get;set}
 
-
-        public ICollection<Peliculas> Peliculas {get; set;}
-        public ICollection<Productores> Productores {get; set;}
+        public Peliculas Peliculas {get; set;}
+        public Productores Productores {get; set;}
     }
 }

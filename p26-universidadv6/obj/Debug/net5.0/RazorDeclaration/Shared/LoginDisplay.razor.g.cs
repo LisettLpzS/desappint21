@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace p21_universidadv1.Pages.Estudiante
+namespace p21_universidadv1.Shared
 {
     #line hidden
     using System;
@@ -22,13 +22,6 @@ using System.Net.Http;
 #nullable restore
 #line 2 "c:\desappint21\p26-universidadv6\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 3 "c:\desappint21\p26-universidadv6\_Imports.razor"
-using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
@@ -83,44 +76,20 @@ using p21_universidadv1.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "c:\desappint21\p26-universidadv6\Pages\Estudiante\Estudiantes.razor"
-using p21_universidadv1.Modelo;
+#line 1 "c:\desappint21\p26-universidadv6\Shared\LoginDisplay.razor"
+using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 3 "c:\desappint21\p26-universidadv6\Pages\Estudiante\Estudiantes.razor"
-using p21_universidadv1.Servicio;
-
-#line default
-#line hidden
-#nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/Estudiantes")]
-    public partial class Estudiantes : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class LoginDisplay : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 62 "c:\desappint21\p26-universidadv6\Pages\Estudiante\Estudiantes.razor"
-       
-    List<Estudiante> obj;
- 
-    protected override void OnInitialized() {
-        obj = serv.ObtenerTodo("");
-    }
-    protected void Filtro(ChangeEventArgs e) {
-        string cadenabuscar = e.Value.ToString();
-        obj = serv.ObtenerTodo(cadenabuscar);
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioEstudiantes serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager Navigation { get; set; }
     }
 }
 #pragma warning restore 1591
