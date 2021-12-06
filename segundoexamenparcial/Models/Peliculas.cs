@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.Collections.Generic;
 
 namespace segundoexamenparcial.Modelo
 {
@@ -13,7 +14,10 @@ namespace segundoexamenparcial.Modelo
         public int CertificadoId {get;set}
         public string Informacion {get;set}
 
+        public ICollection<RolesdeActoresenP> RolesdeActoresenP {get; set;}
         public ICollection<PeliculasDirigidasPorProductores> PeliculasDirigidasPorProductores {get; set;}
+        public GenerosDePeliculas GenerosDePeliculas {get; set;}
+        public CertificadosDePeliculas CertificadosDePeliculas {get; set;}
     }
 
 }
